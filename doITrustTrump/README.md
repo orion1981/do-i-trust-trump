@@ -1,43 +1,24 @@
 # README
 
-# HOME PAGE
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- create an array that contains sources upon mouse click
-- On re-click removes from array.
-- when submit check array length is greater than 3.
-- if so go to next PAGE
-- if false should provide a pop up alert that says "pick at least 3 sources"
+Things you may want to cover:
 
--
+* Ruby version
 
-## ISSUES PAGE
+* System dependencies
 
-- populates join table for questions
+* Configuration
 
+* Database creation
 
-## RESULTS PAGE
+* Database initialization
 
-- Uses arrays from questions on ISSUES PAGE
-- returns true / total percentage
+* How to run the test suite
 
-## FORM
+* Services (job queues, cache servers, search engines, etc.)
 
-- to create ISSUES
-- ? are there any issues
+* Deployment instructions
 
-
-## Models
-
-- Sources
-- ISSUES
-- uses
-- questions   issues id:, users id:, response: true|false
-
-- populate arrays for RESULTS PAGE
-1. You trust trump
-2. You trust them
-3. (extras?) For when users click both ways for same source
-
-## other features
-- work in google analytics to track user data
-- one out of 20 uses get surveyed before and after question
+* ...
